@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, R, SQL, ML**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **bartek170@onet.com.pl** </h3>
 <p align="left">
 </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bartek Machura</h1>
+<h1 align="center">Hi 👋, I'm Bartłomiej Machura</h1>
 <h3 align="center">Data analyst from Poland</h3>
 
 - 🔭 I’m currently working on **Python and R project**
